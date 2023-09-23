@@ -1,3 +1,3 @@
 N = 6
-for i in range(0, N-1, -1):
+for i in range(0, N):
     print("*"*(N-i)+" "*i)
